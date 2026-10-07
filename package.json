@@ -1,0 +1,1 @@
+{"name":"open-reactor-lab","version":"1.5.0","private":true,"type":"module","scripts":{"test":"node --test","build":"node scripts/build.mjs","start":"python3 -m http.server 8080"},"engines":{"node":">=22"},"license":"MIT"}
